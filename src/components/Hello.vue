@@ -1,6 +1,6 @@
 <template>
   <div class="page">
-    111111111
+    <button @click="$router.push('/')">main</button>
   </div>
 </template>
 <script>
